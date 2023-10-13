@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+APLICAÇÃO ORGANO ALURA, AULA REACT.JS
+PARA RODAR DIGITE NPM START NO TERMINAL AO ABRIR A APLICAÇAO!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
